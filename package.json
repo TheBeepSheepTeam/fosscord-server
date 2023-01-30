@@ -26,12 +26,12 @@
 	"types": "src/bundle/index.ts",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/fosscord/fosscord-server.git"
+		"url": "git+https://github.com/TheBeepSheepTeam/fosscord-server.git"
 	},
 	"author": "Fosscord",
 	"license": "AGPL-3.0-only",
 	"bugs": {
-		"url": "https://github.com/fosscord/fosscord-server/issues"
+		"url": "https://github.com/TheBeepSheepTeam/fosscord-server/issues"
 	},
 	"imports": {
 		"#*": "./dist/*/index.js"
